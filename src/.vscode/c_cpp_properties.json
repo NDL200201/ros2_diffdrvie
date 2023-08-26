@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/server/dev_ws/install/serial_motor_demo_msgs/include/**",
+        "/home/server/dev_ws/install/serial/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/server/dev_ws/src/diffdrive_arduino/include/**",
+        "/home/server/dev_ws/src/serial/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
